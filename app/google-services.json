@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906191331343",
+    "project_id": "test-b218a",
+    "storage_bucket": "test-b218a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906191331343:android:8d44d9c3ab6f22c66d437a",
+        "android_client_info": {
+          "package_name": "fpoly.doanbvph31058.lab1_doanbv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9GM5m3kCqjGx72RXOxIi5OZWm7p9G-ZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
